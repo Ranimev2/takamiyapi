@@ -1,10 +1,10 @@
-# Kumanime API
+# TAKAMIYA API
 <p align="center">
   <a href="https://github.com/LuckyIndraEfendi">
-    <img src="https://avatars.githubusercontent.com/u/93984625?v=4" alt="Mastay" width="120" >
+    <img src="https://avatars.githubusercontent.com/u/93984625?v=4" alt="Takamiya" width="120" >
   </a>
   
-  <h3 align="center">Kumanime API</h3>
+  <h3 align="center">TAKAMIYA API</h3>
   <p align="center">
     <samp>Rest API gratis untuk mendapatkan data anime serta link streaming anime dari website <a href="https://anime-indo.biz">AnimeIndo</a></samp>
   </p>
@@ -16,10 +16,10 @@
 
 ```sh
 # clone repo
-git clone https://github.com/MastayY/kumanime-api.git
+git clone https://github.com/Ranimev2/takamiyapi.git
 
 # masuk folder
-cd kumanime-api
+cd takamiyapi
 
 # install dependensi
 npm install
