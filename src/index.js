@@ -16,7 +16,7 @@ app.use(cors());
 app.use('/api', router)
 app.use('/', (req, res) => {
     res.json({
-        author: "MastayY",
+        author: "takamiya",
         routes: {
             latestAnime: "/latest",
             popularAnime: "/popular",
@@ -31,7 +31,7 @@ app.use('/', (req, res) => {
 app.use('*',(req,res) =>{
     res.json({
         'status':'not found path',
-        message: 'read the docs here https://github.com/MastayY/kumanime-api'
+        message: 'read the docs here https://github.com/ranimev2/takamiyapi'
     })
 })
 app.listen(port, () => {
